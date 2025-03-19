@@ -1,9 +1,5 @@
 # The Strategic SMOTE (SSMOTE)
 
-Files the Strategic SMOTE (SSMOTE) project live here. You can access a poster for the project.
-
-The RStudio implementation is still under development but please check back for updates with code for implementation.
+Files the Strategic SMOTE (SSMOTE) project live here. You can access a poster for the project above.
 
 The most thorough source of information on the project and its foundational simulation study is the [author's dissertation](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/sj139961j).
-
-You may reach the author at ntotty@framingham.edu if you have questions.
